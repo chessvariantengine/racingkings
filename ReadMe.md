@@ -1,8 +1,7 @@
 verk - Racing Kings chess variant engine
-========================================
+----------------------------------------
 
-modification of the CCRL listed bitboard engine Zurichess by Alexandru Mosoi:  
------------------------------------------------------------------------------
+### modification of the CCRL listed bitboard engine Zurichess by Alexandru Mosoi:  
 https://bitbucket.org/zurichess/zurichess
 
 Currently the UCI protocol is supported ( verkuci ).
