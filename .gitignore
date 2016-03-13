@@ -1,6 +1,7 @@
 
 
-
+*.bat
+!build.bat
 
 
 

@@ -1,1 +1,0 @@
-Racing Kings chess variant engine
